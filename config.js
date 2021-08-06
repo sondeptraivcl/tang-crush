@@ -1,19 +1,16 @@
 const CONFIG = {
-    introTitle: 'Babe à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
+    introTitle: 'he luu cậu !',
+    introDesc: `tớ có điều này muốn hỏi cậu phải trả lời thật lòng nha`,
+    btnIntro: 'ok',
+    title: 'cậu yêu tớ phải ko nào 😙',
+    desc: 'nếu cậu mà ko trả lời mà thoát ra tức là muốn làm vợ tớ đấy',
+    btnYes: 'yêu ơi là yêu <33',
+    btnNo: 'cậu mơ à :3',
+    question:'nói chớ tớ lí do cậu thích tớ đi :vv',
+    btnReply: 'Gửi cho tớ <3',
+    reply: 'tại cậu dễ thương, ga lăng',
+    mess: 'tớ biết mà 🥰. Yêu cậu 3000',
+    messDesc: 'còn giờ thì chờ gì nữa mà ko inbox cho tớ đi nàooo.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://www.facebook.com/soma.bensonnha/' 
 }
